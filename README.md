@@ -1,6 +1,8 @@
-## Problem Statement :
+## BUCKLE UP
 
-## Proposed Solution :
+### Problem Statement :
+
+### Proposed Solution :
 <!-- ![1](https://user-images.githubusercontent.com/74110370/148542223-38823185-ef07-412a-9695-26bb8887acaa.PNG)
 ![2](https://user-images.githubusercontent.com/74110370/148542224-f6d61b3c-1dd6-4185-810f-9d407f721747.PNG)
 ![3](https://user-images.githubusercontent.com/74110370/148542217-d36a6bc4-8df7-43d7-ae9c-6396dc78a904.PNG)
@@ -17,6 +19,6 @@
   </tr>
 </table>
 
-## Functionality & Concepts used :
+### Functionality & Concepts used :
 
-## Application Link & Future Scope :
+### Application Link & Future Scope :
