@@ -22,6 +22,7 @@ We have planned to build an application that will analyze candidate resume's and
 </table>
 
 ### Functionality & Concepts used :
+In our application, one can signup with email and password or use google/linkedIn/github account to register. On Login the user is directed to the dashboard of the app. For this we have used Firebase as the backend.
 
 ### Application Link & Future Scope :
 Apart from resume analyzer the application will have interview preparation questions and an option to attemp mock video interviews.
