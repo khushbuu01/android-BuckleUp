@@ -2,6 +2,7 @@
 
 ### Problem Statement :
 Students are always worried about building a strong resume for interviews and preparing for questions asked in these interviews.
+We have planned to build an application that will analyze candidate resume's and rate them according to which it can be further updated to meet the employer's expectation.
 
 ### Proposed Solution :
 <!-- ![1](https://user-images.githubusercontent.com/74110370/148542223-38823185-ef07-412a-9695-26bb8887acaa.PNG)
