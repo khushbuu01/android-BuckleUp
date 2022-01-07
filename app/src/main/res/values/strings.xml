@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidBuzz</string>
+    <string name="app_name">BuckleUp</string>
     <string name="Welcome">Welcome to BuckleUp</string>
     <string name="desc">A platform which makes you interview ready with features like mock interviews, tips and tricks and much more</string>
     <string name="login">Login</string>

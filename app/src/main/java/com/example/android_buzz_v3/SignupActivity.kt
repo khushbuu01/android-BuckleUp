@@ -39,6 +39,10 @@ class SignupActivity : AppCompatActivity() {
         regBtn.setOnClickListener{
             signUpUser()
         }
+        log.setOnClickListener{
+            startActivity(Intent(this, LoginActivity::class.java))
+            finish()
+        }
 
     }
 
