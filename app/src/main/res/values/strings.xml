@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidBuzz</string>
+    <string name="Welcome">Welcome to BuckleUp</string>
+    <string name="desc">A platform which makes you interview ready with features like mock interviews, tips and tricks and much more</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_addre">Email Address</string>
+    <string name="password">Password</string>
+    <string name="or_sign_in_">or Sign in with</string>
+    <string name="reg">Do not have an Account ? Register</string>
+    <string name="name">Name</string>
+    <string name="buckle_up">BUCKLE UP</string>
+    <string name="tagline">Interview Simulator</string>
+    <string name="confpassword">Confirm Password</string>
+    <string name="log">Already have an Account ? Login</string>
+
+</resources>
