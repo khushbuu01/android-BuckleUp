@@ -1,6 +1,7 @@
 ## BUCKLE UP
 
 ### Problem Statement :
+Students are always worried about building a strong resume for interviews and preparing for questions asked in these interviews.
 
 ### Proposed Solution :
 <!-- ![1](https://user-images.githubusercontent.com/74110370/148542223-38823185-ef07-412a-9695-26bb8887acaa.PNG)
