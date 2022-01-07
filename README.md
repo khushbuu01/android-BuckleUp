@@ -1,11 +1,11 @@
 ## Problem Statement :
 
 ## Proposed Solution :
-![1](https://user-images.githubusercontent.com/74110370/148542056-6ab43f6b-8306-41c5-a923-e6da0f772ef0.PNG)
-![2](https://user-images.githubusercontent.com/74110370/148537887-2787fd69-fa97-43a9-8073-d3df562e5f41.PNG)
-![3](https://user-images.githubusercontent.com/74110370/148537941-a24f063c-fe90-47eb-b508-0e2c68cc0f00.PNG)
-![4](https://user-images.githubusercontent.com/74110370/148535065-ffd4a238-73e6-4f18-add9-f5ce2567cff1.PNG)
-![5](https://user-images.githubusercontent.com/74110370/148535093-32164461-ced8-43ea-ab7f-a1cd4caabcb9.PNG)
+![1](https://user-images.githubusercontent.com/74110370/148542223-38823185-ef07-412a-9695-26bb8887acaa.PNG)
+![2](https://user-images.githubusercontent.com/74110370/148542224-f6d61b3c-1dd6-4185-810f-9d407f721747.PNG)
+![3](https://user-images.githubusercontent.com/74110370/148542217-d36a6bc4-8df7-43d7-ae9c-6396dc78a904.PNG)
+![4](https://user-images.githubusercontent.com/74110370/148542218-295a5517-4ad7-4ce8-97da-20f13bd19cf8.PNG)
+![5](https://user-images.githubusercontent.com/74110370/148542221-9a55314a-9781-47b1-9fdd-d607ddc4ba7b.PNG)
 
 ## Functionality & Concepts used :
 
