@@ -24,3 +24,4 @@ We have planned to build an application that will analyze candidate resume's and
 ### Functionality & Concepts used :
 
 ### Application Link & Future Scope :
+Apart from resume analyzer the application will have interview preparation questions and an option to attemp mock video interviews.
